@@ -1,0 +1,14 @@
+.markdown-message {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  /* Add your code block spacing */
+  .markdown-message pre {
+    padding: 12px;
+    border-radius: 6px;
+    overflow-x: auto;
+    margin: 10px 0;
+  }
+  
