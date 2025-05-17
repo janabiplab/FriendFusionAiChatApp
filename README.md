@@ -21,4 +21,23 @@ A full-stack AI-powered chat application using the **MERN stack**, **Google Gemi
 
 ---
 
+## 🛠️ Tech Stack
+
+
 <img src="https://img.freepik.com/free-vector/set-server-room-element-isometric-big-data-processing-data-center-database-concept_39422-909.jpg" width="100%" height="250px" />
+
+### Frontend
+- **React.js**
+- **Styled Components**
+- **Socket.IO Client**
+
+### Backend
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **Redis**
+- **Socket.IO**
+- **Google Gemini API**
+
+---
+
