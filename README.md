@@ -17,3 +17,8 @@ A full-stack AI-powered chat application using the **MERN stack**, **Google Gemi
 - 🧵 **Styled Components** — Modern, maintainable component-level styling.
 - ⚡ **Redis** — High-speed real-time data storage and message handling.
 - 🔐 **Authentication** — Secure login and user sessions.
+- 🌐 **Responsive UI** — Clean and responsive design for all devices.
+
+---
+
+<img src="https://img.freepik.com/free-vector/set-server-room-element-isometric-big-data-processing-data-center-database-concept_39422-909.jpg" width="100%" height="250px" />
